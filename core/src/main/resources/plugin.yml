@@ -1,0 +1,4 @@
+name: MistCore
+version: 1.0
+author: Ixidi
+main: xyz.ixidi.mist.core.CorePlugin
